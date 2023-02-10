@@ -8,7 +8,11 @@ function App() {
       <div>
         <Weather />
         <p>
-          <a href="https://github.com/sara-si/react-app" target="_blank">
+          <a
+            href="https://github.com/sara-si/react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Open-source code
           </a>{" "}
           by Sara Sarabi
