@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header></header>
-      <body>
+      <div>
         <Weather />
         <p>
           <a href="https://github.com/sara-si/react-app" target="_blank">
@@ -13,7 +13,7 @@ function App() {
           </a>{" "}
           by Sara Sarabi
         </p>
-      </body>
+      </div>
     </div>
   );
 }
