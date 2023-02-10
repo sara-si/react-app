@@ -8,7 +8,10 @@ function App() {
       <body>
         <Weather />
         <p>
-          <a href="">Open-source code</a> by Sara Sarabi
+          <a href="https://github.com/sara-si/react-app" target="_blank">
+            Open-source code
+          </a>{" "}
+          by Sara Sarabi
         </p>
       </body>
     </div>
